@@ -482,6 +482,7 @@
 				05399CBA1D3F4BCE00F09ADB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		05399CBB1D3F4BCE00F09ADB /* Build configuration list for PBXNativeTarget "FistGitDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				05399CBD1D3F4BCE00F09ADB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		05399CBE1D3F4BCE00F09ADB /* Build configuration list for PBXNativeTarget "FistGitDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +500,7 @@
 				05399CC01D3F4BCE00F09ADB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
